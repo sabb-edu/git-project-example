@@ -5,9 +5,9 @@ void initPix() {
 
   print("Suas chaves pix são:");
 
-  print("1. asfasdf");
-  print("2. dsda");
-  print("3. gfd");
+  print("1. 123");
+  print("2. abc");
+  print("3. fds");
 
   transferencia();
 }
